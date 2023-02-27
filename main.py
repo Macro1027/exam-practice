@@ -38,7 +38,3 @@ def webscraper():
 def resources():
     return render_template('in-progress.html')
 
-
-if __name__ == "__main__":
-    app.run(debug=True)
-
