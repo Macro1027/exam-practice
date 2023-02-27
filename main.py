@@ -38,3 +38,4 @@ def webscraper():
 def resources():
     return render_template('in-progress.html')
 
+app.run()
